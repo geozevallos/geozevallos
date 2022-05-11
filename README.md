@@ -8,7 +8,7 @@ Recently, I started to learn coding in Python and JavaScript.
 [![Twitter Badge](https://img.shields.io/twitter/follow/gisordie?style=social)](https://twitter.com/gisordie)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/jzevallosrivera17)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geozevallos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geozevallos&layout=compact&theme=radical&hide=html,css,scss,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
